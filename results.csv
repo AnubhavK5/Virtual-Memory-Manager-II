@@ -1,0 +1,4 @@
+Algorithm,PageFaults,Hits,HitRatio
+FIFO,7,6,0.461538
+LRU,6,7,0.538462
+Optimal,6,7,0.538462
