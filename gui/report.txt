@@ -1,0 +1,20 @@
+==== Virtual Memory Manager Report ====
+
+Total References: 13
+Unique Pages: 6
+Frames Allocated: 3
+
+Page Reference Frequency:
+  Page 0 -> 4 times
+  Page 1 -> 1 times
+  Page 2 -> 3 times
+  Page 3 -> 3 times
+  Page 4 -> 1 times
+  Page 7 -> 1 times
+
+--- Performance Summary ---
+Algorithm Page Faults    Hits      Hit Ratio 
+---------------------------------------------
+FIFO      10             3         0.230769  
+LRU       9              4         0.307692  
+Optimal   7              6         0.461538  
